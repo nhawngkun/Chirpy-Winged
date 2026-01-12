@@ -1,0 +1,87 @@
+How to Play: Chirpy-Winged 🎮🍰
+Welcome to Chirpy-Winged, an exciting mobile arcade game where you collect cakes and deliver them to boxes while avoiding dangerous chefs!
+🎯 Game Objective
+Your mission is simple: collect as many cakes as possible and deliver them to the cake boxes scattered around the arena. But watch out - enemy chefs are constantly spawning and trying to stop you!
+🕹️ Controls
+Movement
+
+Joystick (Left): Use the left joystick to move your character around the circular arena
+Drag your finger on the joystick to walk in any direction
+Release to stop moving immediately
+Your character will automatically rotate to face the direction you're moving
+
+Throwing Cakes
+
+Joystick (Right): Use the right joystick to aim and throw cakes
+When you're carrying a cake, an aim arrow and line will appear
+Drag the right joystick in the direction you want to throw
+Release the joystick to launch the cake toward the target
+You can throw cakes at cake boxes to score points or at chefs to destroy them!
+
+📦 Gameplay Mechanics
+Collecting Cakes
+
+Cakes spawn randomly around the arena with a glowing, rotating animation
+Walk close to a cake (within pickup radius) to automatically collect it
+When you pick up a cake, a visual model appears on your character's head
+You can only carry one cake at a time
+
+Delivering Cakes
+
+Look for the cake boxes positioned around the arena
+Walk into a cake box while carrying a cake to deposit it and score points
+Alternatively, you can throw the cake into the box from a distance
+Each successful delivery increases your score!
+
+Enemy Chefs 👨‍🍳
+
+Chefs spawn from designated entry points and move toward exit points
+If a chef collides with you, you'll take damage and drop your cake
+Chefs become more frequent and spawn faster as the game progresses
+You have invincibility frames after taking damage (your character will pulse)
+
+Combat System
+
+Throw cakes at approaching chefs to destroy them before they reach you
+A well-aimed throw can save you from taking damage
+Destroyed chefs may drop additional cakes for you to collect
+
+❤️ Health System
+
+You start with 3 hearts (health points)
+Each collision with a chef costs you 1 heart
+After taking damage, you become temporarily invincible (indicated by a pulsing scale animation)
+When you lose all hearts, it's game over!
+
+🎮 Game Progression
+
+Difficulty Scaling: As time passes, chefs spawn more frequently
+The maximum number of active chefs increases gradually
+The spawn interval between chefs decreases over time
+Challenge yourself to survive as long as possible and achieve a high score!
+
+🌟 Pro Tips
+
+Stay Mobile: Keep moving to avoid chef collisions
+Plan Your Route: Collect cakes strategically near cake boxes
+Use Throws Wisely: Sometimes throwing is safer than walking to the box
+Prioritize Survival: If surrounded by chefs, focus on dodging rather than delivering
+Watch the Edges: You're confined to a circular boundary - don't get cornered!
+Timing is Key: Use your invincibility frames wisely after taking damage
+Clear Threats: Throw cakes at chefs when you're in danger
+Combo Deliveries: Try to chain multiple cake deliveries quickly for efficiency
+
+🏆 Scoring
+
+Each cake successfully delivered to a box = +1 point
+Your score is displayed at the top of the screen
+Try to beat your personal best with each playthrough!
+
+📱 UI Elements
+
+Top Left: Your current score (cake count)
+Top Right: Heart icons showing remaining health
+Center: Gameplay joysticks for movement and throwing
+Aim Indicators: Arrow and line showing throw direction when holding a cake
+
+Good luck, and may your wings carry you to victory in Chirpy-Winged! 🎉🍰
